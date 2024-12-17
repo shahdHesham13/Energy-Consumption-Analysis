@@ -1,4 +1,4 @@
-# Energy Consumption Optimization Analysis
+# Energy Consumption Optimization
 
 ## Project Overview
 
