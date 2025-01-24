@@ -1,6 +1,5 @@
 # Energy Consumption Optimization
-
-### 📌 Project Presentation  [Click to view the slides](https://drive.google.com/file/d/1YN25Y5knjeTqos-GbCu50YPbViB97PSA/view?usp=sharing) 
+ 
 
 
 ## Project Overview
